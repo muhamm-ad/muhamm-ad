@@ -1,5 +1,8 @@
 👋 Hi, I’m @muhamm-ad
-👀 I’m interested in Software Development and Embedded Systems
-🌱 I’m currently learning Advanced Machine Learning algorithms and honing my skills in Python and C++.
-💞️ I’m looking to collaborate on open-source projects related to Embedded Systems, IoT, and AI-powered applications.
-📫 How to reach me: You can reach me email
+👨‍💻 Master of the 3:00 AM bug hunt.
+🔮 Conjuring code and brewing up scripts.
+🐛 Bug whisperer and feature conjurer.
+🍕 Fueled by pizza and caffeine.
+📚 Written more READMEs than novels.
+🚀 Launching apps, one coffee at a time.
+🤖 Believes AI will take over the world, but only after it learns to make coffee.
